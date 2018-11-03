@@ -1,7 +1,7 @@
 # Data-Cleaning-
 How to clean data in a pdf file check the code .
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+=================================
 
 RUNNING PROG. ENVIRONMENT: 
 
@@ -11,7 +11,7 @@ INSTALLATION NEED:
 
 PyPDF2, slate3k (you can do it nltk library also) 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+===============================
 
 MAIN CODE: data_cleaning21.ipynb
 
