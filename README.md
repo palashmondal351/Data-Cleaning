@@ -17,4 +17,4 @@ MAIN CODE: data_cleaning21.ipynb
 
 PDF FILE: abcd.pdf and abcde.pdf (you can choose your own pdf file also)
 
-NOTE: Modified the code as your requirement specially in preposition row of the code.
+NOTE: Modified the code as your requirement specially in preposition row of the code. Carefully change the file path of your .pdf file.
